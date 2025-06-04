@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.openleap.mrs.seeder</groupId>
-    <artifactId>mrs-seeder</artifactId>
+    <artifactId>message-receiver-service-seeder</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
