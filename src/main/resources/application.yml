@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: mrs-seeder
+mrs-api:
+  base-url: http://localhost:8080
+  token-url:
+  client-id:
+  client-secret:
